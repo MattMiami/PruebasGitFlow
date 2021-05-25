@@ -1,1 +1,1 @@
-Modificamos el archivo desde feature 1.
+Modificamos el archivo desde feature 1 // Ahora añadimos el arreglo del hotfix.
